@@ -1,0 +1,17 @@
+{
+  "id": "01a0a994-34b8-7234-9888-07d2ec68c464",
+  "name": "bike_sharing_monitoring",
+  "description": "Examen - Cas d'etude workflow de monitoring (UCI Bike Sharing)",
+  "dashboard": {
+    "name": "bike_sharing_monitoring",
+    "panels": [],
+    "tabs": [],
+    "tab_id_to_panel_ids": {}
+  },
+  "team_id": null,
+  "org_id": null,
+  "date_from": null,
+  "date_to": null,
+  "created_at": "2026-09-16T09:37:37.464284",
+  "version": "1"
+}
